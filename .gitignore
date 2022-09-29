@@ -68,6 +68,8 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+db.sql
+
 # dotenv environment variables file
 .env
 .env.test
